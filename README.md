@@ -1,7 +1,6 @@
 ### Hallo, nice to meat you! ☕️
 
-[![na0mi-c0de-20240508-172204-0000.png](https://i.postimg.cc/tTjKZWr1/na0mi-c0de-20240508-172204-0000.png)](https://postimg.cc/1gvCbn1P)
-
+<iframe src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/BooleanCareers-transparent-b88QlTSTsj3bEHQyZf">via GIPHY</a></p>
 # 💫 About Me:
 Hello! I'm a young self-taught student passionate about the world of programming. At 19, I reside in Germany, although my roots are Spanish. From an early age, I've had a deep curiosity for technology and its potential to transform the world around us.<br><br>My journey as a self-taught programmer has been exciting and full of discoveries. I'm always seeking new opportunities to learn and grow, and I have an insatiable appetite for challenges that help me excel and develop my full potential.<br><br>My goal is to become a standout professional in the field of technology, contributing my creativity and passion to innovative projects. I'm eager to participate in stimulating collaborations that allow me to expand my skills and make a real difference in the world.<br><br>I'm ready to dive into new projects and contribute my energy and dedication.
 
